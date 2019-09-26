@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/qml">
+        <file alias="QGroundControl/ArduPilot/qmldir">src/FirmwarePlugin/APM/QGroundControl.ArduPilot.qmldir</file>
+    </qresource>
+    <qresource prefix="/json">
+        <file alias="APM/MavCmdInfoCommon.json">src/FirmwarePlugin/APM/MavCmdInfoCommon.json</file>
+        <file alias="APM/MavCmdInfoFixedWing.json">src/FirmwarePlugin/APM/MavCmdInfoFixedWing.json</file>
+        <file alias="APM/MavCmdInfoMultiRotor.json">src/FirmwarePlugin/APM/MavCmdInfoMultiRotor.json</file>
+        <file alias="APM/MavCmdInfoRover.json">src/FirmwarePlugin/APM/MavCmdInfoRover.json</file>
+        <file alias="APM/MavCmdInfoSub.json">src/FirmwarePlugin/APM/MavCmdInfoSub.json</file>
+        <file alias="APM/MavCmdInfoVTOL.json">src/FirmwarePlugin/APM/MavCmdInfoVTOL.json</file>
+    </qresource>
+    <qresource prefix="/AutoPilotPlugins/APM">
+        <file alias="APMAirframeFactMetaData.xml">src/AutoPilotPlugins/APM/APMAirframeFactMetaData.xml</file>
+    </qresource>
+    <qresource prefix="/FirmwarePlugin/APM">
+        <file alias="APMParameterFactMetaData.Plane.3.3.xml">src/FirmwarePlugin/APM/APMParameterFactMetaData.Plane.3.3.xml</file>
+        <file alias="APMParameterFactMetaData.Plane.3.5.xml">src/FirmwarePlugin/APM/APMParameterFactMetaData.Plane.3.5.xml</file>
+        <file alias="APMParameterFactMetaData.Plane.3.7.xml">src/FirmwarePlugin/APM/APMParameterFactMetaData.Plane.3.7.xml</file>
+        <file alias="APMParameterFactMetaData.Plane.3.8.xml">src/FirmwarePlugin/APM/APMParameterFactMetaData.Plane.3.8.xml</file>
+        <file alias="APMParameterFactMetaData.Copter.3.3.xml">src/FirmwarePlugin/APM/APMParameterFactMetaData.Copter.3.3.xml</file>
+        <file alias="APMParameterFactMetaData.Copter.3.4.xml">src/FirmwarePlugin/APM/APMParameterFactMetaData.Copter.3.4.xml</file>
+        <file alias="APMParameterFactMetaData.Copter.3.5.xml">src/FirmwarePlugin/APM/APMParameterFactMetaData.Copter.3.5.xml</file>
+        <file alias="APMParameterFactMetaData.Copter.3.6.xml">src/FirmwarePlugin/APM/APMParameterFactMetaData.Copter.3.6.xml</file>
+        <file alias="APMParameterFactMetaData.Rover.3.0.xml">src/FirmwarePlugin/APM/APMParameterFactMetaData.Rover.3.0.xml</file>
+        <file alias="APMParameterFactMetaData.Rover.3.2.xml">src/FirmwarePlugin/APM/APMParameterFactMetaData.Rover.3.2.xml</file>
+        <file alias="APMParameterFactMetaData.Rover.3.4.xml">src/FirmwarePlugin/APM/APMParameterFactMetaData.Rover.3.4.xml</file>
+        <file alias="APMParameterFactMetaData.Sub.3.4.xml">src/FirmwarePlugin/APM/APMParameterFactMetaData.Sub.3.4.xml</file>
+        <file alias="APMParameterFactMetaData.Sub.3.5.xml">src/FirmwarePlugin/APM/APMParameterFactMetaData.Sub.3.5.xml</file>
+        <file alias="APMParameterFactMetaData.Sub.3.6dev.xml">src/FirmwarePlugin/APM/APMParameterFactMetaData.Sub.3.6dev.xml</file>
+        <file alias="Copter.OfflineEditing.params">src/FirmwarePlugin/APM/Copter3.5.OfflineEditing.params</file>
+        <file alias="Plane.OfflineEditing.params">src/FirmwarePlugin/APM/Plane3.7.OfflineEditing.params</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/qml">
+        <file alias="QGroundControl/Airmap/qmldir">src/Airmap/QGroundControl.Airmap.qmldir</file>
+    </qresource>
+    <qresource prefix="/json">
+        <file alias="AirMap.SettingsGroup.json">src/Airmap/AirMap.SettingsGroup.json</file>
+    </qresource>
+    <qresource prefix="/airmap">
+        <file alias="advisory-icon.svg">src/Airmap/images/advisory-icon.svg</file>
+        <file alias="colapse.svg">src/Airmap/images/colapse.svg</file>
+        <file alias="expand.svg">src/Airmap/images/expand.svg</file>
+        <file alias="pencil.svg">src/Airmap/images/pencil.svg</file>
+        <file alias="right-arrow.svg">src/Airmap/images/right-arrow.svg</file>
+        <file alias="unavailable.svg">src/Airmap/images/unavailable.svg</file>
+    </qresource>
+    <qresource prefix="/airmapweather">
+        <file alias="clear.svg">src/Airmap/images/weather-icons/clear.svg</file>
+        <file alias="clear_day.svg">src/Airmap/images/weather-icons/sunny.svg</file>
+        <file alias="cloudy.svg">src/Airmap/images/weather-icons/cloudy.svg</file>
+        <file alias="cloudy_wind.svg">src/Airmap/images/weather-icons/cloudy_wind.svg</file>
+        <file alias="drizzle.svg">src/Airmap/images/weather-icons/drizzle.svg</file>
+        <file alias="drizzle_day.svg">src/Airmap/images/weather-icons/drizzle_day.svg</file>
+        <file alias="drizzle_night.svg">src/Airmap/images/weather-icons/drizzle_night.svg</file>
+        <file alias="foggy.svg">src/Airmap/images/weather-icons/foggy.svg</file>
+        <file alias="frigid.svg">src/Airmap/images/weather-icons/frigid.svg</file>
+        <file alias="hail.svg">src/Airmap/images/weather-icons/hail.svg</file>
+        <file alias="heavy_rain.svg">src/Airmap/images/weather-icons/heavy_rain.svg</file>
+        <file alias="hurricane.svg">src/Airmap/images/weather-icons/hurricane.svg</file>
+        <file alias="isolated_thunderstorms.svg">src/Airmap/images/weather-icons/isolated_thunderstorms.svg</file>
+        <file alias="mostly_clear.svg">src/Airmap/images/weather-icons/mostly_clear.svg</file>
+        <file alias="mostly_cloudy_day.svg">src/Airmap/images/weather-icons/mostly_cloudy_day.svg</file>
+        <file alias="mostly_cloudy_night.svg">src/Airmap/images/weather-icons/mostly_cloudy_night.svg</file>
+        <file alias="mostly_sunny.svg">src/Airmap/images/weather-icons/mostly_sunny.svg</file>
+        <file alias="partly_cloudy_day.svg">src/Airmap/images/weather-icons/partly_cloudy_day.svg</file>
+        <file alias="partly_cloudy_night.svg">src/Airmap/images/weather-icons/partly_cloudy_night.svg</file>
+        <file alias="rain.svg">src/Airmap/images/weather-icons/rain.svg</file>
+        <file alias="rain_snow.svg">src/Airmap/images/weather-icons/rain_snow.svg</file>
+        <file alias="scattered_snow_showers_day.svg">src/Airmap/images/weather-icons/scattered_snow_showers_day.svg</file>
+        <file alias="scattered_snow_showers_night.svg">src/Airmap/images/weather-icons/scattered_snow_showers_night.svg</file>
+        <file alias="scattered_thunderstorms_day.svg">src/Airmap/images/weather-icons/scattered_thunderstorms_day.svg</file>
+        <file alias="scattered_thunderstorms_night.svg">src/Airmap/images/weather-icons/scattered_thunderstorms_night.svg</file>
+        <file alias="snow.svg">src/Airmap/images/weather-icons/snow.svg</file>
+        <file alias="snow_storm.svg">src/Airmap/images/weather-icons/snow_storm.svg</file>
+        <file alias="sunny.svg">src/Airmap/images/weather-icons/sunny.svg</file>
+        <file alias="thunderstorm.svg">src/Airmap/images/weather-icons/thunderstorm.svg</file>
+        <file alias="tornado.svg">src/Airmap/images/weather-icons/tornado.svg</file>
+        <file alias="unknown.svg">src/Airmap/images/weather-icons/unknown.svg</file>
+        <file alias="windy.svg">src/Airmap/images/weather-icons/windy.svg</file>
+    </qresource>
+</RCC>
